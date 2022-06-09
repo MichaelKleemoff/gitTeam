@@ -2,3 +2,5 @@ Tennis
 Basketball
 Baseball
 Soccer
+cricket
+
