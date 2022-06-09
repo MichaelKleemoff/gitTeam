@@ -1,6 +1,6 @@
 Tennis
 Basketball
-Baseball
+hockey
 Soccer
 cricket
 
